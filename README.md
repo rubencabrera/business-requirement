@@ -20,6 +20,7 @@ addon | version | summary
 [business_requirement](business_requirement/) | 9.0.1.0.0 | Manage the Business Requirements (stories, scenarii, gaps and test cases) for your customers
 [business_requirement_deliverable](business_requirement_deliverable/) | 9.0.1.0.0 | Manage the Business Requirement Deliverables and Resources for your customers
 [business_requirement_deliverable_categ](business_requirement_deliverable_categ/) | 9.0.1.0.0 | Adds Task Categories to your Business Requirement Resources
+[business_requirement_deliverable_cost](business_requirement_deliverable_cost/) | 9.0.1.0.1 | Control the cost of your Business Requirements
 [business_requirement_deliverable_default](business_requirement_deliverable_default/) | 9.0.1.0.0 | Manage default resource lines in your deliverable sales package
 
 [//]: # (end addons)
