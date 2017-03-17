@@ -22,6 +22,7 @@ addon | version | summary
 [business_requirement_deliverable_categ](business_requirement_deliverable_categ/) | 9.0.1.0.0 | Adds Task Categories to your Business Requirement Resources
 [business_requirement_deliverable_cost](business_requirement_deliverable_cost/) | 9.0.1.0.1 | Control the cost of your Business Requirements
 [business_requirement_deliverable_default](business_requirement_deliverable_default/) | 9.0.1.0.0 | Manage default resource lines in your deliverable sales package
+[business_requirement_deliverable_report](business_requirement_deliverable_report/) | 9.0.1.0.0 | Print the Business Requirement Document for your customers
 
 [//]: # (end addons)
 
